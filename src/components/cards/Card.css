@@ -1,0 +1,49 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  background-color: #06283d;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 0.6rem;
+  position: relative;
+  overflow: hidden;
+  width: 25rem;
+}
+.card:hover .cardDesc {
+  transform: translateY(0%);
+}
+.title {
+  color: white;
+  font-size: 1rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+img {
+  width: 25rem;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 0.6rem;
+}
+img:hover {
+  filter: grayscale(100%);
+}
+
+.cardDesc {
+  width: 23rem;
+  height: 15.4rem;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  left: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 1.2rem;
+  padding: 1rem;
+  transform: translateY(-200%);
+  z-index: 1;
+  transition: transform 0.7s ease-in-out;
+}
