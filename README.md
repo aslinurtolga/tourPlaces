@@ -10,6 +10,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![image](./tourplaces2.jpg)
 
+## Project Skeleton
+
 |----Tour Places
 
         |----readme.md
@@ -36,10 +38,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
         |----package.json
         |----yarn.lock
         
-Objective
-Build a Tour Project App using ReactJS.
+## Description
+Project aims get information about Tour Places via a Javascript React.
 
-At the end of the project, following topics are to be covered;
+## At the end of the project, following topics are to be covered;
 HTML
 
 CSS
@@ -48,7 +50,7 @@ JS
 
 ReactJS
 
-At the end of the project, students will be able to;
+## At the end of the project, students will be able to;
 improve coding skills within HTML & CSS & JS & ReactJS.
 
 use git commands (push, pull, commit, add etc.) and Github as Version Control System.
