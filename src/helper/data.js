@@ -1,83 +1,87 @@
 export const data = [
   {
     id: 1,
-    title: "New York",
-    desc: "Home to the Statue of Liberty, Empire State Building, Central Park, Times Square, New York is the most populous city in the USA. We have a lot to tell about the city where city lights illuminate the sky.",
+    title: "Lake Como, Italy",
+    desc: "ake Como has been a popular retreat for aristocrats and wealthy people since Roman times, and a very popular tourist attraction with many artistic and cultural gems. It has many villas and palaces such as Villa Olmo, Villa Serbelloni, and Villa Carlotta. Many famous people have had and have homes on the shores of Lake Como.",
     image:
-      "https://cdn.pixabay.com/photo/2017/06/07/15/47/new-york-city-2380683_960_720.jpg",
+      "https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2021/03/HandLuggageOnly-14-2.jpg?w=1600&ssl=1",
   },
   {
     id: 2,
-    title: "Philippines",
-    desc: "The island country, the Philippines, is one of the most beautiful countries where blue and green are together. Forget the potion of youth, traveling to the Philippines will rejuvenate you for at least 5 years.",
+    title: "Mykonos, Greece",
+    desc: "Mykonos has been known as the island of the winds, and it’s located in the heart of the Cyclades group. Mykonos ticks all three. It was one of the first of the Greek islands to be considered a holiday destination and has been popular since the 60s.",
     image:
-      "https://bigseventravel.com/wp-content/uploads/2019/11/john-hernandez-IL-fBBnF-GU-unsplash-1920x1440.jpg",
+      "https://i.pinimg.com/originals/c4/1a/60/c41a608980e089dbccf712261b50dedc.jpg",
   },
   {
     id: 3,
-    title: "Bali",
-    desc: "Bali, Indonesia's most famous island, has taken its place as the 'last paradise' in mind. Providing 80% of its livelihood with tourism, Bali hosts thousands of tourists every year.",
-    image: "https://ak.picdn.net/shutterstock/videos/26368511/thumb/1.jpg",
+    title: "Dubrovnik, Crotia",
+    desc: "Dubrovnik (derived from dubrava in Croatian, meaning “grove”) occupies a promontory jutting into the sea under the bare limestone mass of Mount Srdj. The port’s sea fortifications rise directly from the water’s edge, and the massive round tower (completed 1464) of the Minc̆eta Fortress dominates the city on the landward side.",
+    image:
+      "https://images.hola.com/imagenes/viajes/20200407165155/dubrovnik-croacia-maravillas-desde-mi-pantalla/0-808-901/dubrovnik-playa-a.jpg",
   },
   {
     id: 4,
-    title: "Egypt",
-    desc: "Being one of the biggest countries of the Middle East, Egypt has been the transition point of many civilizations with its thousands of years of history. The pyramids and miracles that come to mind when talking about Egypt have been the subject of many films. It still remains a mystery.",
+    title: "Petra, Jordan",
+    desc: "The city of Petra, capital of the Nabataean Arabs, is one of the most famous archaeological sites in the world, it is Located 240 km south of the capital Amman and 120 km north of the red sea town of Aqaba (see the Map), Petra the world wonder, is undoubtedly Jordan's most valuable treasure and greatest tourist attraction, and it is visited by tourists from all over the world.",
     image:
-      "https://images.memphistours.com/large/34d5b5a3fbaa4b3b5d9487bf924b0145.jpg",
+      "https://i.pinimg.com/originals/ae/87/fb/ae87fbdc00aedd484c1f188d9b4ab2fb.jpg",
   },
   {
     id: 5,
-    title: "Cappadocia",
-    desc: "Cappadocia… 'Kappa Tuchia', which means 'Land of Beautiful Horses' in the words of Persians. A location in Turkey and in the center of Anatolia's most popular and unique tourist centers of someone who Cappadocia, magnificent nature, valleys of unique beauty, fairy chimneys, rock-hewn settlements, millions every year with open-air museums and underground cities, local and hosts foreign tourists.",
-    image: "https://i.hurimg.com/i/hdn/75/0x0/5aa10544d3806c25541af273.jpg",
+    title: "Montana, Wyoming",
+    desc: "One of the main attraction to see is the Leshan Grand Buddha. The Grand Buddha is a 71 meter (230 feet) high sculpture carved into one of the large cliffs by the river. Back in the 8th century, Hai Tong led the charge to carve the Leshan Giant Buddha out of a cliff face. The result was a 71-meter Buddha statue that is both the tallest and largest in the world.",
+    image:
+      "https://localadventurer.com/wp-content/uploads/2019/02/yellowstone-things-to-do.jpg",
   },
   {
     id: 6,
-    title: "Paris",
-    desc: "Paris has been recognized as one of the most romantic cities in the world. Many famous buildings here have been added to the Unesco World Heritage List. It awaits you with its museums, fashion and historical buildings.",
+    title: "Anse Source d'Argent, Seychelles",
+    desc: "The absolutely breathtaking scenery is the real highlight of Anse Source d’Argent. The mixture of shallow, clear water, golden sand, and imposing granite formations make it one of the most picturesque beaches anywhere in the world, and one that’s well worth visiting for anyone taking a holiday to the Seychelles.",
     image:
-      "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20180221130827/iStock-155381519.jpg",
+      "https://i0.wp.com/jyoshankar.com/wp-content/uploads/2021/06/jyoshankar_ladigue_ansesourcedargent_seychelles_13.jpg?resize=768%2C960&ssl=1",
   },
   {
     id: 7,
-    title: "Venice",
-    desc: "Venice, one of Italy's indispensable stops, is known as the 'City of Channels', 'City of Waters' or 'City of Masks' thanks to its world-famous masks. If you visit in February, you can catch the Venice Carnival, where everyone wears a mask and has fun.",
+    title: "Ha Long Bay, Vietnam",
+    desc: "Towering limestone pillars and tiny islets topped by forest rise from the emerald waters of the Gulf of Tonkin. Designated a World Heritage Site in 1994, Halong Bay's scatter of islands, dotted with wind- and wave-eroded grottoes, is a vision of ethereal beauty and, unsurprisingly, northern Vietnam's number one-tourism hub.",
     image:
-      "https://www.qantas.com/content/travelinsider/en/explore/europe/italy/venice/things-you-need-to-know-before-you-go-to-venice/_jcr_content/parsysTop/hero.img.full.medium.jpg/1535006246068.jpg",
+      "https://i.pinimg.com/564x/50/02/e7/5002e7de0415aa117055420b5fec58a4.jpg",
   },
   {
     id: 8,
-    title: "India",
-    desc: "If you are not a vacationer but a traveler, we can say that India is the place for you. India, one of the most colorful places in the world, has a crazy variety. The Taj Mahal, the story of which you have heard more or less, is one of its famous buildings.",
-    image: "https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg",
+    title: "The Dead Sea, Israel",
+    desc: "The Dead Sea, known in Hebrew as Yam Ha-Melakh (the Sea of Salt) is the lowest point on earth. It’s surrounded by the stunning landscape of the Negev Desert. The shores of the Dead Sea are the lowest point on the surface of the earth. The saline waters of the lake means no fish can survive in the salty waters, hence the name. The other result of the salty water is their renowned health and healing properties of the mud. ",
+    image:
+      "https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/1559658551705-B1QHWLY2HKBHCEBIQ8L1/Things+to+do+in+the+Dead+Sea+-+The+Dead+Sea+Tree?format=750w",
   },
   {
     id: 9,
-    title: "Northern Lights",
-    desc: "Northern lights, the 'Aurora Borealis', named after the Dawn Goddess Aurora, are the natural glows that emerge in the sky with the interaction of the earth's magnetic field and charged particles from the Sun. This image, which makes most of us feel like in a fairy tale land, deserves to be visited at least once in a lifetime.",
+    title: "Machu Picchu, Peru",
+    desc: "Every year, millions of people visit the imposing and mysterious Incan citadel of Machu Picchu in Peru. But getting to the massive agricultural terraces, intricate stone constructions, and epic hilltop views of this UNESCO World Heritage site isn't cheap, and it involves some trickier-than-usual logistics. Here's how to expertly navigate your way to Peru's most famous destination.",
     image:
-      "https://images.unsplash.com/photo-1579033461380-adb47c3eb938?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bm9ydGhlcm4lMjBsaWdodHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2017/05/IMG_2968-s.jpg?w=1600&ssl=1",
   },
   {
     id: 10,
-    title: "Fuji Mountain",
-    desc: "The symbol and highest mountain of Japan, Mount Fuji is considered sacred by the Japanese and is called Fuji-San. This mountain, which has an active startovolcano, is depicted in art and photography and is a natural wonder visited by athletes and tourists.",
+    title: "Mont Saint Michel, France",
+    desc: "Initially founded by a hermit from Ireland, this medieval town is characterized by intricate architecture and curvy streets and is most known for having one of France’s best attractions, the Mont Saint Michel Abbey. Started in the 10th century, this Benedictine abbey is a great example of Gothic and Romanesque architecture, and it was one of the first UNESCO World Heritage Sites.",
     image:
-      "https://d20aeo683mqd6t.cloudfront.net/articles/title_images/000/038/943/original/pixta_43064884_S.jpg?2019&d=750x400",
+      "https://www.lifesavvy.com/p/uploads/2021/03/eff9dad9.jpg?width=1200",
   },
   {
     id: 11,
-    title: "Arashiyama Bamboo Grove",
-    desc: "Bamboo Forest, or Arashiyama Bamboo Grove or Sagano Bamboo Forest, is a natural forest of bamboo in Arashiyama, Kyoto, Japan. The forest consists mostly of Moso Bamboo (Phyllostachys edulis) and consists of several pathways for tourists and visitors. The Ministry of the Environment considers it a part of the soundscape of Japan.",
-    image: "https://wallpaperaccess.com/full/534182.jpg",
+    title: "Mostar, Bosnia & Herzegovina",
+    desc: "Mainly known for the Old Bridge, or Stari Most, there’s so much more to Mostar. Other than the smells of delicious cuisine and the sounds of traditional live music, there are several popular sites to see that include the remains of Cim Early Christian Basilica, Bishop’s Ordinariate, and the Tara and Halebija Towers. Well-deserving of the honor of being among Europe’s best cities,",
+    image:
+      "https://www.roadaffair.com/wp-content/uploads/2017/09/mostar-bosnia-shutterstock_291941039.jpg",
   },
   {
     id: 12,
-    title: "Antelope Canyon",
-    desc: "Antelope Canyon is a slot canyon in the American Southwest, on Navajo land east of Page, Arizona. It includes two separate, scenic slot canyon sections, referred to as Upper Antelope Canyon (or The Crack), and Lower Antelope Canyon (or The Corkscrew).",
+    title: "Los Cabos, Mexico",
+    desc: "Flanked by the Pacific Ocean and the Gulf of California, Los Cabos' symphony of natural features — desert, mountains, sea, and plenty of sunshine — and yes, raucous party scene, have made it one of the most popular vacation destinations in North America. Its cobalt blue waters are a hub for diving, snorkeling, kayaking, fishing, and whale watching.",
     image:
-      "https://images.unsplash.com/photo-1444076784383-69ff7bae1b0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvd2VyJTIwYW50ZWxvcGUlMjBjYW55b258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "https://i1.wp.com/nextwithnita.com/wp-content/uploads/2018/05/IMG_4795-3.jpg?w=1080&ssl=1",
   },
 ];
 
